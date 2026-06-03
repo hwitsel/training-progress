@@ -28,8 +28,8 @@ Training Progress helps you answer "am I getting stronger?" without spreadsheets
 
 ## Legal
 
-- [Privacy Policy](docs/privacy-policy.md) — what data the app handles (it stays on your device).
-- [Terms & Conditions](docs/terms.md) — usage terms and the health/fitness disclaimer.
+- [Privacy Policy](privacy-policy.md) — what data the app handles (it stays on your device).
+- [Terms & Conditions](terms.md) — usage terms and the health/fitness disclaimer.
 
 ## License
 
