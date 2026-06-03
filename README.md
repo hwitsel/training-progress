@@ -19,7 +19,7 @@ Training Progress helps you answer "am I getting stronger?" without spreadsheets
 - **Edit & fix history** — edit or delete any saved session after the fact.
 - **Train Days** — a month calendar coloured by the program you trained each day, with quick-start / repeat for your last session.
 - **Body metrics** — track check-ins like body weight and see the signed change over time.
-- **Private by design** — fully offline: no account, no network, no analytics, no ads. Your data never leaves your device. See the [Privacy Policy](docs/privacy-policy.md).
+- **Private by design** — fully offline: no account, no network, no analytics, no ads. Your data never leaves your device. See the [Privacy Policy](privacy.md).
 
 ## Platforms
 
